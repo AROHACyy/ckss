@@ -1,0 +1,47 @@
+.index-touban-left-title img{
+	width: 113px;
+	height: 26px;
+}
+.index-touban-left img{
+	width: 270px;
+	height: 150px;
+}
+.index-touban-left-a{
+	letter-spacing: 2px;
+	line-height: 30px;
+}
+ul{
+	list-style-type: none;
+	padding-left: 0;
+}
+a{
+	text-decoration: none;
+}
+.index-touban-left-img{
+	position: relative;
+}
+.index-touban-left-title-img{
+	position: absolute;
+	color: white;
+	bottom: 2px;
+	left: 0;
+}
+.index-touban-center{
+	width: 495px;
+}
+.font-big{
+	font-size: 21px;
+	letter-spacing: 2px;
+}
+.font-bolder{
+	font-weight: bolder;
+}
+.index-touban-center a{
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.index-touban-right{
+	border: 1px solid #CCC;
+}
